@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Telegram AI Chart Analyzer System</title>
   <meta name="description" content="Iconic animated AI chart analyzer system on Telegram. Private access. BD & Global." />  <!-- GOOGLE FONT -->  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">  <!-- AUTO REDIRECT -->  <script>
-    setTimeout(()=>{window.location.href="https://t.me/+nilnBUKqZpozNzc0"},4500);
+    setTimeout(()=>{window.location.href="(https://t.me/+Cg5U_vnaeXdmMGQ8)"},4500);
     setTimeout(()=>{window.location.href="https://t.me/+3NylXTrJl7I1ZTdl"},9000);
   </script>  <style>
     *{box-sizing:border-box}
