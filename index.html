@@ -8,49 +8,23 @@
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
 
 <style>
-*{
-  margin:0;
-  padding:0;
-  box-sizing:border-box;
-  font-family:Poppins;
-}
-
 body{
-  background: radial-gradient(circle at top,#111,#050505);
+  margin:0;
+  font-family:Poppins;
+  background:linear-gradient(120deg,#050505,#0d0d0d);
   color:#fff;
-  display:flex;
-  justify-content:center;
-  align-items:center;
-  min-height:100vh;
-  overflow:hidden;
-}
-
-/* background glow */
-.bg{
-  position:absolute;
-  width:400px;
-  height:400px;
-  background:rgba(255,87,34,0.15);
-  filter:blur(120px);
-  top:-100px;
-  left:-100px;
+  text-align:center;
 }
 
 .container{
-  width:90%;
-  max-width:420px;
-  text-align:center;
-  animation:fadeIn 1.2s ease;
-}
-
-@keyframes fadeIn{
-  from{opacity:0;transform:translateY(20px)}
-  to{opacity:1;transform:translateY(0)}
+  max-width:500px;
+  margin:auto;
+  padding:30px 20px;
 }
 
 .logo{
-  width:90px;
-  height:90px;
+  width:95px;
+  height:95px;
   margin:auto;
   border-radius:50%;
   background:linear-gradient(135deg,#ff9800,#ff3d00);
@@ -58,12 +32,12 @@ body{
   align-items:center;
   justify-content:center;
   font-weight:700;
-  box-shadow:0 0 30px rgba(255,80,0,0.6);
+  box-shadow:0 0 30px rgba(255,60,0,.5);
 }
 
 h1{
   font-size:22px;
-  margin-top:15px;
+  margin:15px 0;
 }
 
 .highlight{
@@ -75,60 +49,43 @@ h1{
 p{
   font-size:14px;
   color:#ccc;
-  margin:12px 0 18px;
   line-height:1.6;
-}
-
-.card{
-  background:rgba(255,255,255,0.05);
-  padding:18px;
-  border-radius:16px;
-  backdrop-filter:blur(10px);
-  border:1px solid rgba(255,255,255,0.08);
 }
 
 .btn{
   display:block;
-  margin:12px 0;
+  margin:15px auto;
   padding:14px;
   border-radius:12px;
   text-decoration:none;
-  font-weight:600;
   color:#fff;
-  transition:0.3s;
-}
-
-.btn:hover{
-  transform:scale(1.03);
+  font-weight:600;
 }
 
 .primary{
   background:linear-gradient(90deg,#ff5722,#ff3d00);
-  box-shadow:0 10px 25px rgba(255,60,0,0.3);
 }
 
 .secondary{
   background:linear-gradient(90deg,#1e88e5,#1565c0);
-  box-shadow:0 10px 25px rgba(30,136,229,0.3);
 }
 
-.badge{
-  margin-top:15px;
-  font-size:12px;
-  color:#90caf9;
+.box{
+  margin-top:20px;
+  padding:15px;
+  background:rgba(255,255,255,.03);
+  border-radius:14px;
 }
 
 .footer{
-  margin-top:18px;
-  font-size:11px;
+  margin-top:25px;
+  font-size:12px;
   color:#666;
 }
 </style>
 </head>
 
 <body>
-
-<div class="bg"></div>
 
 <div class="container">
 
@@ -137,19 +94,15 @@ p{
   <h1><span class="highlight">Telegram AI</span><br>Chart Analyzer</h1>
 
   <p>
-    Premium AI-powered trading analysis system designed for smart traders worldwide.
+    Simple AI-powered trading analysis system for Telegram users worldwide.
   </p>
 
-  <div class="card">
+  <a class="btn primary" href="https://t.me/+Cg5U_vnaeXdmMGQ8">Enter AI Bot</a>
+  <a class="btn secondary" href="https://t.me/+3NylXTrJl7I1ZTdl">Enter Analyzer</a>
 
-    <a class="btn primary" href="https://t.me/+Cg5U_vnaeXdmMGQ8">🚀 Enter AI Bot</a>
-
-    <a class="btn secondary" href="https://t.me/+3NylXTrJl7I1ZTdl">📊 Enter Analyzer</a>
-
-    <div class="badge">
-      ⚡ Fast • Private • Global System
-    </div>
-
+  <div class="box">
+    ⚡ Fast • Clean • Private System<br>
+    📊 Built for disciplined traders
   </div>
 
   <div class="footer">
