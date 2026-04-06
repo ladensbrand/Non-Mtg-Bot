@@ -4,7 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Telegram AI Chart Analyzer System</title>
   <meta name="description" content="Iconic animated AI chart analyzer system on Telegram. Private access. BD & Global." />  <!-- GOOGLE FONT -->  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">  <!-- AUTO REDIRECT -->  <script>
-    setTimeout(()=>{window.location.href="(https://t.me/+Cg5U_vnaeXdmMGQ8)"},4500)
+    setTimeout(()=>{window.location.href="(https://t.me/+3jt8gs4Dy-41YTFl)"},4500)
   </script>  <style>
     *{box-sizing:border-box}
     body{
@@ -169,8 +169,8 @@
   Designed for disciplined traders from Bangladesh and worldwide.
 </p>
 
-<a class="cta" href="https://t.me/+Cg5U_vnaeXdmMGQ8">🤖 Enter AI BOT (Auto Redirect)</a>
-<a class="cta secondary" href="https://t.me/+3NylXTrJl7I1ZTdl">📊 Enter Chart Analyzer</a>
+<a class="cta" href="https://t.me/+3jt8gs4Dy-41YTFl">🤖 JOIN DAILY EARNING BOT (Auto Redirect)</a>
+<a class="cta secondary" href="https://t.me/+Cg5U_vnaeXdmMGQ8">📊 JOIN FREE COMPOUNDING</a>
 
 <div class="stats">
   <div class="stat"><strong>1,287</strong>Live Users</div>
